@@ -33,6 +33,15 @@
             "slug":"payees-api",
             "type": "apiUrl",
             "contentUrl": "https://api.swaggerhub.com/apis/smartbear-api-hub/payees-api/1.0.0-prod/swagger.json"
+        },
+        {
+            "order": 3,
+            "parent": "",
+            "name": "Changelog",
+            "slug":"changelog",
+            "type": "markdown",
+            "contentUrl": "Changelog.md"
         }
+        
     ]
 }
