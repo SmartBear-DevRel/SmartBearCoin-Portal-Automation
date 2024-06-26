@@ -5,6 +5,7 @@ fontname
 Kilcommins
 Lato
 Merriweather
+omnichannel
 petco
 petcopetstore
 Petstore
